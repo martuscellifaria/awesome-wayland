@@ -194,6 +194,7 @@ IMAGE VIEWING
 LAUNCHERS
 ---------
 
+- ![C++](https://img.shields.io/badge/c++-%235e97d0.svg?style=plastic&logo=c%2B%2B&logoColor=fff) [wl-dock](https://github.com/martuscellifaria/ahoiplank) - A customizable multi mode launcher for Wayland that looks good out of the box. Written in C++ 23 and Qt 6.
 - ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [Anyrun](https://github.com/anyrun-org/anyrun) - A GTK-based Wayland-native launcher, customizable via CSS
 - ![Nim](https://img.shields.io/badge/nim-%23171921.svg?style=plastic&logo=nim&logoColor=ffe953) [basket](https://github.com/xTrayambak/basket) - A minimal application launcher for Wayland compositors implementing the `wlr-layer-shell-unstable-v1` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [bemenu](https://github.com/Cloudef/bemenu) - A dynamic menu library and client program inspired by dmenu
